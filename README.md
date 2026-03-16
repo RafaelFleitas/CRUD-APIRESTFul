@@ -1,4 +1,4 @@
-# Consumo de API RESTful com Laravel e React JS
+# Consumo de uma API RESTful com Laravel e React JS
 
 ## 📌 Sobre o Projeto
 Este repositório contém um projeto de estudo prático focado na construção de uma **API RESTful** do zero. O projeto consiste em um sistema **CRUD** (Create, Read, Update, Delete) de usuários, onde o **Back-End** foi desenvolvido utilizando o framework **Laravel (PHP)**.
